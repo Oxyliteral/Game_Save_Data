@@ -1,3 +1,7 @@
 AppData/Local/SolCesto/EBWebView\Default\IndexedDB\https_app.localhost_0.indexeddb.leveldb
 
 000048.log
+
+Game data can be edited through 'assets.dat'. Open in notepad-adjacent programs, search for class name (will be in french), edit attack/magic/hp.
+
+Save data can be edited through Sol Cesto gold patcher programs (can be found on steam forums or github). Do note that the required hex filter may be different. Use a hex editor to find your gold value and change the patcher to use the correct hex filter.
