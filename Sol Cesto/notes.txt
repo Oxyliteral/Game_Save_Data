@@ -1,0 +1,3 @@
+AppData/Local/SolCesto/EBWebView\Default\IndexedDB\https_app.localhost_0.indexeddb.leveldb
+
+000048.log
