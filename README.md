@@ -4,3 +4,4 @@ Repository for save data for various games.
 Current includes:
 
 - Sol Cesto
+- Foretales
