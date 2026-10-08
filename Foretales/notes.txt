@@ -1,0 +1,13 @@
+Directory depends on game platform.
+
+EGS:
+AppData\LocalLow\Alkemi\Foretales\release_game-state
+
+Local:
+Foretales\game-state
+
+You may need to rename the saves depending on your platform.
+
+theweaver: Save directly before the good ending.
+
+onehundredpercent: 100% completion save.
